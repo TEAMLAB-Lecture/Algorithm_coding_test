@@ -6,7 +6,8 @@
 | :-: | :-: | :-:| :-: | :-: | :-: |
 | OT | [장시온](https://github.com/janguck) | 01/21 | - | [ppt](https://drive.google.com/open?id=1j5z0BHUR3PKwU4K-78HxcJeEJPV0FOiurWX94fpWSbU) | - | 
 | 복잡도 | [장시온](https://github.com/janguck) | 01/21 | - | [ppt](https://drive.google.com/open?id=1Axah0MoTVJywfqPHRA_BvzPJNErJTEQZcsTS4ug4ks0) | - | 
-| 완전탐색 | [진현두](https://github.com/Hyundoo-Jin) | ?? | [problem](./problems/1_sort_algorithm/README.md) | - | - | 
+| 정렬 | [진현두](https://github.com/Hyundoo-Jin) | ?? | [problem](./problems/1_sort_algorithm/README.md) | - | - | 
+| 완전탐색 | - | ?? | - | - | - | 
 | 탐욕 | - | ?? | - | - | - | 
 | 동적계획 | - | ?? | - | - | - | 
 | 최단경로 | - | ?? | - | - | - | 
