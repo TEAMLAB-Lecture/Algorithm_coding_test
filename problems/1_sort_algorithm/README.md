@@ -1,6 +1,13 @@
 ## 정렬 알고리즘
 
-
+* 정렬 알고리즘:
+    * 버블정렬 
+    * 산텍정렬 
+    * 삽입정렬 
+    * 병합정렬 
+    * 퀵정렬     
+    
+    
 * 정렬 문제:
     * [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
     * [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)
